@@ -3,6 +3,8 @@ Phych detector
 
 Tool for detecting a fish in his aquarium
 
+![alt tag](https://raw.githubusercontent.com/z4p4n/Phych/master/img/aquarium.png)
+
 Prerequisites
 ------
 
